@@ -15,9 +15,10 @@ function getBasePath() {
       basePath = "/" + process.env.BASE_PATH;
     }
   }
-  if (basePath == undefined) {
-    basePath = '/portfolio'
-  }
+  // for gh pages
+  // if (basePath == undefined) {
+  //   basePath = '/portfolio'
+  // }
   return basePath
 }
 
