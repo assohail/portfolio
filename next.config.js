@@ -15,6 +15,9 @@ function getBasePath() {
       basePath = "/" + process.env.BASE_PATH;
     }
   }
+  if (basePath == undefined) {
+    basePath = '/portfolio'
+  }
   return basePath
 }
 
