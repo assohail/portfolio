@@ -49,9 +49,9 @@ export const intro = {
 export const about = {
   title: "Who I am",
   description: [
-    "I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering. I kick started my professional career as a web application developer working remotely for a Netherlands based startup — AMZ.",
-    "The tech industry is ever-evolving and I love being able to grow with it, while continually solidifying the fundamentals. I opensource my code from a place of empathy - for future developers, teammates, users, and with accessibility in mind. I also love joining communities, helping and mentoring new developers, and supporting organizations to promote diversity in tech. I’m sharing my programming journey on instagram, helping people who are just getting into the space of programming.",
-    "When I’m not programming, I focus on my hobbies which are: diary writing, doodling, meeting people and growing my network.",
+    "I graduated in Computer Engineering from the National University of Sciences and Technology (NUST) in 2020. My professional career started as a web application developer, working remotely for a Netherlands-based startup — AMZ. Over time, I transitioned into blockchain development, combining my passion for technology with the evolving landscape of decentralized systems.",
+    "As a senior backend and blockchain developer, I specialize in building scalable, high-performance systems with a focus on security and efficiency. I am experienced in developing smart contracts, decentralized applications (DApps), and integrating blockchain technologies into real-world applications, along with robust backend architectures. I thrive in solving complex technical challenges and ensuring system reliability at scale.",
+    "Outside of my professional life, I enjoy diary writing, doodling, and expanding my network by meeting new people who share similar interests in technology and personal growth."
   ],
 }
 
@@ -76,7 +76,7 @@ export const projects = {
   cards: [
     {
       title: "Qalorie",
-      description: "Qalorie is an all-in-one nutrition and weight loss app designed to help you reach your health and fitness goals. Track your nutrients with our micro & macro calculator, progress and turn your fitness goals into reality.",
+      description: "Qalorie is an AI all-in-one nutrition and weight loss app designed to help you reach your health and fitness goals. Track your nutrients with our micro & macro calculator, progress and turn your fitness goals into reality.  By leveraging Edamam's & USDA's vast nutritional databases Qalorie provides accurate data.",
       icons: [
         {
           icon: faAppStore,
@@ -100,7 +100,7 @@ export const projects = {
     },
     {
       title: "Evercalm",
-      description: "EverCalm is a menopause app designed to help women track and alleviate menopause symptoms naturally. It leverages the benefits of hypnotherapy to relieve hot flashes and night sweats and improve sleep.",
+      description: "EverCalm is a menopause app designed to help women track and alleviate menopause symptoms naturally. It leverages the benefits of hypnotherapy to relieve hot flashes and night sweats and improve sleep. With EverCalm, users can access a wide community with monthly group coaching and counselling.",
       icons: [
         {
           icon: faStaylinked,
@@ -108,6 +108,36 @@ export const projects = {
         },
       ]
     },
+    {
+      title: "Astra",
+      description: "Contributing to Astra Protocol, which is a next-generation decentralized KYC platform for Web3. It provides regulatory compliance tools for crypto applications, ensuring adherence to AML and KYC standards across the Web3 industry while maintaining the decentralized nature of blockchain systems.",
+      icons: [
+        {
+          icon: faStaylinked,
+          link: "https://www.astraprotocol.com/",
+        },
+      ]
+    },
+    {
+      title: "FromThePage",
+      description: "FromThePage is a collaborative platform that enables the transcription, translation, and indexing of historical documents, manuscripts, and records. The platform supports crowd-sourced projects, helping bridge the gap between historical collections and modern digital research.",
+      icons: [
+        {
+          icon: faStaylinked,
+          link: "https://www.fromthepage.com/",
+        },
+      ]
+    },
+    {
+      title: "AMZ-DAPP",
+      description: "Developed a full-stack DApp integrating smart contracts with a React frontend and a Node.js backend. Implemented wallet connection (MetaMask), smart contract deployment, event listening, and secure transaction handling for real-world use cases like NFT minting and decentralized voting.",
+      icons: [
+        {
+          icon: faStaylinked,
+          link: "",
+        },
+      ]
+    }
   ],
 }
 
