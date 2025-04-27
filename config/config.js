@@ -51,7 +51,7 @@ export const about = {
   description: [
     "I graduated in Computer Engineering from the National University of Sciences and Technology (NUST) in 2020. My professional career started as a web application developer, working remotely for a Netherlands-based startup — AMZ. Over time, I transitioned into blockchain development, combining my passion for technology with the evolving landscape of decentralized systems.",
     "As a senior backend and blockchain developer, I specialize in building scalable, high-performance systems with a focus on security and efficiency. I am experienced in developing smart contracts, decentralized applications (DApps), and integrating blockchain technologies into real-world applications, along with robust backend architectures. I thrive in solving complex technical challenges and ensuring system reliability at scale.",
-    "Outside of my professional life, I enjoy diary writing, doodling, and expanding my network by meeting new people who share similar interests in technology and personal growth."
+    "Outside of my professional life, I enjoy diary writing, exploring crypto projects, and expanding my network by meeting new people who share similar interests in technology and personal growth."
   ],
 }
 
