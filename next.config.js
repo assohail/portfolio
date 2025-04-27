@@ -16,9 +16,9 @@ function getBasePath() {
     }
   }
   // for gh pages
-  // if (basePath == undefined) {
-  //   basePath = '/portfolio'
-  // }
+  if (basePath == undefined) {
+    basePath = '/portfolio'
+  }
   return basePath
 }
 

@@ -30,7 +30,7 @@ export const navigation = {
 }
 export const intro = {
   title: "Hey, I'm Aamir Sohail",
-  description: "A Computer Engineer specializing in backend development and blockchain.",
+  description: "A Computer Engineer specializing in backend and blockchain.",
   image: profile.src,
   buttons: [
     {
@@ -60,12 +60,12 @@ export const work = {
   cards: [
     {
       title: "Web App Development",
-      description: "I develop robust backend systems and APIs for web and mobile apps.",
+      description: "I develop scalable backend systems and APIs for modern web and mobile applications.",
       icons: null,
     },
     {
       title: "Blockchain Development",
-      description: "I build secure and scalable blockchain solutions using smart contracts and integrate them with the frontend.",
+      description: "I build secure blockchain solutions using smart contracts and integrate them seamlessly with frontend platforms.",
       icons: null,
     }
   ],
